@@ -25,7 +25,7 @@
 ## Contact Me :
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-waheed-b82abb234/)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abdo_Wa7Eed)
-[![Gmail](https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdo20132233@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.waheed198@gmail.com)
 [![Codeforces](https://img.shields.io/badge/-CODEFORCES-white?color=blue&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abdo_Wa7eed)
 
 
