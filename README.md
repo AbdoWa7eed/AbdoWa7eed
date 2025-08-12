@@ -1,7 +1,7 @@
 ## Hi, I'm Abdelrahman 👋
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- Flutter Developer | JAVA Developer | Software engineer :robot:
+- Flutter Developer | Java Developer | Software engineer :robot:
 ## Education 👨‍🎓
 - Systems and Computers Engineering. :man_technologist:
 - Al-Azhar University. 🏛️
